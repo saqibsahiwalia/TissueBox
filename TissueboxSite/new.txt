@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-22:50:59	1350/1350	---M--	200	added ('OK')	text/html	date:Mon,%2022%20Sep%202025%2017:50:59%20GMT	https://instachat-16.preview.emergentagent.com/generator	C:/Users/HS%20TRADER/Documents/TissueboxSite/instachat-16.preview.emergentagent.com/generator.html	(from )
-22:50:59	1350/1350	---M--	200	added ('OK')	text/html	date:Mon,%2022%20Sep%202025%2017:50:59%20GMT	https://instachat-16.preview.emergentagent.com/	C:/Users/HS%20TRADER/Documents/TissueboxSite/instachat-16.preview.emergentagent.com/index.html	(from )
-22:51:00	1350/1350	---M--	200	added ('OK')	text/html	date:Mon,%2022%20Sep%202025%2017:51:00%20GMT	https://instachat-16.preview.emergentagent.com/robots.txt		(from )
